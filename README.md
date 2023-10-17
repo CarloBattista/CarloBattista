@@ -17,6 +17,7 @@ A passionate full stack developer from Italia
 <img align='left' alt='CSS' title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
 <img align='left' alt='SASS' title="SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width='35'>
 <img align='left' alt='Bootstrap' title="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width='35'>
+<img align='left' alt='Tailwind' title="Tailwind" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width='35'>
 <img align='left' alt='JavaScript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <img align='left' alt='Vue.js' title="Vue.js" src="https://vuejs.org/images/logo.png" width='35'>
 <!-- <img align='left' alt='ReactJS' title="ReactJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width='35'> -->
