@@ -1,6 +1,6 @@
 # Hello, I'm [Carlo Battista](https://github.com/CarloBattista)
 
-descrizione
+A passionate full stack developer from Italia
 
 *Connect on my social profiles:*
 
